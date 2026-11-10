@@ -35,9 +35,9 @@ A multilingual equine genetics application combining an interactive coat colour 
 
 An interactive map for exploring the Trans Euro Trail, a network of adventure motorcycle routes across Europe.
 
-**My role:** **Contributor** to the development of the existing application.
+**My role:** **Co-creator and volunteer developer.** I built the initial prototype, then developed the first versions of TET Atlas with **Lucas Gabriel Salina D’Ovidio**, a fellow developer and TET volunteer. My work included the early interfaces with Next.js and React, and processing GPX files for display on the map. Like the rest of the TET team, we contributed as volunteers. After those first versions, Lucas continued developing and improving the Atlas on his own.
 
-[Open TET Atlas](https://atlas.transeurotrail.org/) · [Read about my contribution](https://gilles.mastropasqua.fr/projects/tet-atlas/)
+[Open TET Atlas](https://atlas.transeurotrail.org/) · [Read about the project and my role](https://gilles.mastropasqua.fr/projects/tet-atlas/)
 
 ## Tools I work with
 
